@@ -33,8 +33,9 @@ Upload Code: Upload the provided Arduino sketch (balancing_robot.ino) to the Tee
 Testing: Power on the robot and observe its behavior as it attempts to balance itself. Adjust PID parameters and motor control logic as needed to achieve optimal performance.
 Enhancements: Explore additional features such as wireless control via Bluetooth or Wi-Fi, integration of sensors for obstacle avoidance, or implementing autonomous navigation algorithms.
 
-Contributions
-Contributions to this project are welcome! If you have any suggestions, bug fixes, or new features to contribute, please feel free to submit a pull request.
+Contributors:
+Mohammed Hussain Nawaz: https://github.com/mrmhnawaz
+
 
 License
 This project is licensed under the MIT License.
